@@ -1,0 +1,6 @@
+framework module Pods_news_matome {
+  umbrella header "Pods-news_matome-umbrella.h"
+
+  export *
+  module * { export * }
+}
